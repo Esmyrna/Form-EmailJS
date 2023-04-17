@@ -53,7 +53,11 @@ export const SubmitButton = styled.button`
   border: none;
   box-shadow: 0 0 5px 2px rgba(180 136 207 0.25);
 
-  
+  &:hover {
+     border: 2px solid;
+     background-color: #859acd;
+     color: #fbf5ff;
+  }
 `
 
 export const Form = styled.form`
