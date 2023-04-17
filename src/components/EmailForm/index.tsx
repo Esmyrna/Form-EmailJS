@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import { Form, InputName, LabelName, MessageInput, SubmitButton } from './style';
 import emailjs from 'emailjs-com';
 
-const Input = () => {
+const EmailForm = () => {
 
   const SERVICE_ID = 'gmailForm';
   const TEMPLATE_ID = 'template_729ximg';
@@ -67,4 +67,4 @@ const Input = () => {
   );
 };
 
-export default Input;
+export default EmailForm;

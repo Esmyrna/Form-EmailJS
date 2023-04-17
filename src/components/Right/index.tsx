@@ -1,13 +1,13 @@
 import React from 'react'
 
 import { RightSide, TitleRight } from './style'
-import Input from '../Input'
+import EmailForm from '../EmailForm'
 
 const Right = () => {
   return (
     <RightSide>
       <TitleRight>Fale conosco</TitleRight>
-      <Input />
+      <EmailForm />
     </RightSide>
 
   )

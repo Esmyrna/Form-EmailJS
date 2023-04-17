@@ -1,7 +1,7 @@
 import styled from "styled-components"
 
 export const LeftColor = styled.div`
-    width: 40%;
+    width: 50%;
     height: 100vh;
     background: linear-gradient(0deg, rgba(131,155,205,1) 0%, rgba(181,135,207,1) 100%);
 
@@ -12,8 +12,7 @@ export const LeftColor = styled.div`
 
 `
 export const Svg = styled.img`
-    width: 70px;
-    height: 60px;
+    height: 90px;
     background: none;
 
   

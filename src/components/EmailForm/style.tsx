@@ -39,7 +39,7 @@ export const SubmitButton = styled.button`
   width: 20%;
   height: 7.5vh;
   margin: 1rem 0;
-
+  color: #000000;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -47,9 +47,11 @@ export const SubmitButton = styled.button`
   font-size: 1rem;
   font-family: 'Poppins', sans-serif;
 
-  background-color: #32d22d;
-
+  background-color: #b488cf;
+  cursor: pointer;
   border-radius: 12px;
+  border: none;
+  box-shadow: 0 0 5px 2px rgba(180 136 207 0.25);
 `
 
 export const Form = styled.form`
@@ -58,7 +60,8 @@ width: 100%;
 height: 100%;
 padding:  1rem;
 display: flex;
-margin-left: 10%;
+margin-left: 15%;
+justify-content: center;
  
 flex-direction: column;
 `

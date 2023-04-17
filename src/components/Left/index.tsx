@@ -7,7 +7,7 @@ const Left = () => {
   return (
     <>
      <LeftColor>
-          <Svg src={favicon}></Svg>
+          <Svg src={`https://creazilla-store.fra1.digitaloceanspaces.com/emojis/52865/incoming-envelope-emoji-clipart-xl.png`}></Svg>
           <Title>Shoes Shop </Title>
         </LeftColor>
     </>
