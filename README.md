@@ -1,2 +1,2 @@
-Form em React utilizando a biblioteca Email.JS para enviar e-mails. 
-Link do projeto: https://form-nodemailer.vercel.app/
+Form em React utilizando a biblioteca Email.JS para enviar e-mails. <br>
+Link do projeto: https://form-email-js.vercel.app/
