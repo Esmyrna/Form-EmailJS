@@ -6,6 +6,9 @@ align-items: center;
 padding: 2rem 0%;
 flex-direction: column;
 
+@media screen and (max-width: 550px){
+    width: 100%;
+  }
 
 `
 

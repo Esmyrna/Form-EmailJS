@@ -10,6 +10,10 @@ export const LeftColor = styled.div`
     align-items: center;
     flex-direction: column;
 
+    @media screen and (max-width: 550px){
+    display: none;
+  }
+
 `
 export const Svg = styled.img`
     height: 90px;
